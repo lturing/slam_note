@@ -11,3 +11,5 @@
 * [Load/Save Map #443](https://github.com/UZ-SLAMLab/ORB_SLAM3/issues/443)
 
 * [Load map but with no point showed in the viewer windows,just KeyFrames #737](https://github.com/UZ-SLAMLab/ORB_SLAM3/issues/737)
+
+* [https://github.com/UZ-SLAMLab/ORB_SLAM3/pull/310/files](https://github.com/UZ-SLAMLab/ORB_SLAM3/pull/310/files)
