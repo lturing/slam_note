@@ -6,3 +6,4 @@
 
 * [how to use the SaveAtlas() and LoadAtlas() for relocalization? #128
 ](https://github.com/UZ-SLAMLab/ORB_SLAM3/issues/128)
+> there is a bug in MapPoint::PreSave, detele KeyFrame when iter,you should fix it ,and then fix Tracking::Relocalization bug,and write a new function InitWithMap,and you can use the atlas map
