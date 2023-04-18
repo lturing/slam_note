@@ -15,7 +15,7 @@
 * [https://github.com/UZ-SLAMLab/ORB_SLAM3/pull/310/files](https://github.com/UZ-SLAMLab/ORB_SLAM3/pull/310/files)
 
 
-## Dynamic slam
+## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
 - [DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization](https://arxiv.org/pdf/2202.11431.pdf)
 - [PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry](https://arxiv.org/pdf/2204.02635.pdf)
@@ -25,3 +25,4 @@
 - [SiLK: Simple Learned Keypoints](https://arxiv.org/pdf/2304.06194.pdf)
 - [VIO 初始化探究：一种旋转平移解耦的高效鲁棒初始化方法](https://mp.weixin.qq.com/s/tQP6CoROi6pqpr9xLyoMVg)
 - [自动驾驶闭环最常用的算法—卡尔曼滤波](https://mp.weixin.qq.com/s/rw5VjtoEdO-7xBDfQ6Qtpw)
+- [Double Window Optimisation for Constant Time Visual SLAM)(https://sci-hub.st/https://ieeexplore.ieee.org/document/6126517)
