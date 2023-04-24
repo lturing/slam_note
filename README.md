@@ -26,3 +26,4 @@
 - [VIO 初始化探究：一种旋转平移解耦的高效鲁棒初始化方法](https://mp.weixin.qq.com/s/tQP6CoROi6pqpr9xLyoMVg)
 - [自动驾驶闭环最常用的算法—卡尔曼滤波](https://mp.weixin.qq.com/s/rw5VjtoEdO-7xBDfQ6Qtpw)
 - [Double Window Optimisation for Constant Time Visual SLAM](https://sci-hub.st/https://ieeexplore.ieee.org/document/6126517)
+- [Automatic Image selection in Photogrammetric Multi-view Stereo methods](https://discovery.ucl.ac.uk/id/eprint/1369912/1/paper1034_Hosseininaveh_VAST2012SecondEdition_30_10_2012_AAM.pdf)
