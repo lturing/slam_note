@@ -14,6 +14,7 @@
 
 * [https://github.com/UZ-SLAMLab/ORB_SLAM3/pull/310/files](https://github.com/UZ-SLAMLab/ORB_SLAM3/pull/310/files)
 
+* [https://github.com/gaoxiang12/ORB-YGZ-SLAM/issues/3](https://github.com/gaoxiang12/ORB-YGZ-SLAM/issues/3)
 
 ## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
