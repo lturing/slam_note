@@ -16,6 +16,18 @@
 
 * [https://github.com/gaoxiang12/ORB-YGZ-SLAM/issues/3](https://github.com/gaoxiang12/ORB-YGZ-SLAM/issues/3)
 
+---- 
+
+* imu initialzed
+> you should move in a curved trajectory to make the SLAM initialize well. http://doc.openxrlab.org.cn/openxrlab_document/ARDemo/ARdemo.html
+
+
+-------------
+* keyframe selection
+> When a new frame comes, we check the parallax of its keypoint matches with respect to the last keyframe. If the parallax exceeds a threshold, we tag the new frame as a keyframe. If the number of matches is below a lower bound, or there have not been any keyframes for the recent T frames, we also mark the frame as a keyframe.
+
+-----------
+
 ## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
 - [DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization](https://arxiv.org/pdf/2202.11431.pdf)
