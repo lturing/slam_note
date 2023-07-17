@@ -28,6 +28,9 @@
 
 -----------
 
+* [tum imu dataset](https://cvg.cit.tum.de/data/datasets/visual-inertial-dataset)
+  
+
 ## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
 - [DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization](https://arxiv.org/pdf/2202.11431.pdf)
