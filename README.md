@@ -29,7 +29,9 @@
 -----------
 
 * [tum imu dataset](https://cvg.cit.tum.de/data/datasets/visual-inertial-dataset)
-  
+
+-------
+* [在ORB-SLAM2的基础上，结合三维目标检测，实现目标跟踪，动态特征点剔除的object-SLAM方法](https://www.bilibili.com/video/BV1gP411m7Hf)
 
 ## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
