@@ -43,6 +43,10 @@
 > features divided into static, dynamic and potentially dynamic, using static features by image segmentation to compute R an t(H matrix), and the epipolar geometry to decide potentially dynamic whether is static or not.
 -------------------
 
+* [A Robust RGB-D SLAM System with Points and Lines for Low Texture Indoor Environments](https://sci.bban.top/pdf/10.1109/JSEN.2019.2927405.pdf#view=FitH)
+> We observe that the computation of keypoint descriptors in indirect methods is time-consuming and the descriptors are not reused except in the case of keyframes. This wastes significant computational sources. If we can establish reliable keypoint correspondences without extracting descriptors between adjacent frames (or equivalently in Tracking), it will greatly reduce the computational cost without loss of precision.
+
+---------------
 
 ## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
