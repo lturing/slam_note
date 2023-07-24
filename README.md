@@ -33,6 +33,17 @@
 -------
 * [在ORB-SLAM2的基础上，结合三维目标检测，实现目标跟踪，动态特征点剔除的object-SLAM方法](https://www.bilibili.com/video/BV1gP411m7Hf)
 
+
+-----------
+* [Direct-ORB-SLAM: Direct Monocular ORB-SLAM](https://iopscience.iop.org/article/10.1088/1742-6596/1345/3/032016/pdf)
+> if a frame is not a keyframe, the features extracted in it are only used to estimate the pose of the frame and just a few tenths of features take part in this step. This wastes a lot of time to compute the useless descriptors.
+
+-----------
+* [SOF-SLAM: A semantic visual SLAM for Dynamic Environments](https://www.sci-hub.yt/10.1109/ACCESS.2019.2952161)
+> features divided into static, dynamic and potentially dynamic, using static features by image segmentation to compute R an t(H matrix), and the epipolar geometry to decide potentially dynamic whether is static or not.
+-------------------
+
+
 ## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
 - [DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization](https://arxiv.org/pdf/2202.11431.pdf)
