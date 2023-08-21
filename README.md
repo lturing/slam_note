@@ -51,6 +51,7 @@
 ## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
 - [DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization](https://arxiv.org/pdf/2202.11431.pdf)
+- [DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments](https://arxiv.org/abs/1809.08379)
 - [PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry](https://arxiv.org/pdf/2204.02635.pdf)
 - [RDS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods](https://sci-hub.st/https://ieeexplore.ieee.org/document/9318990)
 - [Semantic SLAM With More Accurate Point Cloud Map in Dynamic Environments](https://sci-hub.st/https://ieeexplore.ieee.org/document/9119407)
