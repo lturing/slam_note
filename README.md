@@ -61,4 +61,6 @@
 - [自动驾驶闭环最常用的算法—卡尔曼滤波](https://mp.weixin.qq.com/s/rw5VjtoEdO-7xBDfQ6Qtpw)
 - [Double Window Optimisation for Constant Time Visual SLAM](https://sci-hub.st/https://ieeexplore.ieee.org/document/6126517)
 - [Automatic Image selection in Photogrammetric Multi-view Stereo methods](https://discovery.ucl.ac.uk/id/eprint/1369912/1/paper1034_Hosseininaveh_VAST2012SecondEdition_30_10_2012_AAM.pdf)
+- [动态环境下的slam问题如何解决？](https://www.zhihu.com/question/47817909/answer/2462128186)
+- [动态视觉SLAM的亿点点思考](https://mp.weixin.qq.com/s/3mVVTBudTBdLkvHUiuBxbw)
 - **[ios recorder](http://doc.openxrlab.org.cn/openxrlab_document/ARDemo/ARdemo.html)**
