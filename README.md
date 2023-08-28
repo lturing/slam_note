@@ -64,3 +64,4 @@
 - [动态环境下的slam问题如何解决？](https://www.zhihu.com/question/47817909/answer/2462128186)
 - [动态视觉SLAM的亿点点思考](https://mp.weixin.qq.com/s/3mVVTBudTBdLkvHUiuBxbw)
 - **[ios recorder](http://doc.openxrlab.org.cn/openxrlab_document/ARDemo/ARdemo.html)**
+- [Introducing augmented reality for e-commerce](https://blog.griddynamics.com/introducing-augmented-reality-for-e-commerce/)
