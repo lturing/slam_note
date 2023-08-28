@@ -65,3 +65,4 @@
 - [动态视觉SLAM的亿点点思考](https://mp.weixin.qq.com/s/3mVVTBudTBdLkvHUiuBxbw)
 - **[ios recorder](http://doc.openxrlab.org.cn/openxrlab_document/ARDemo/ARdemo.html)**
 - [Introducing augmented reality for e-commerce](https://blog.griddynamics.com/introducing-augmented-reality-for-e-commerce/)
+- [How ARKit and ARCore recognize vertical planes](https://blog.griddynamics.com/how-arkit-and-arcore-recognize-vertical-planes/)
