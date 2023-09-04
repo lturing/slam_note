@@ -48,6 +48,14 @@
 
 ---------------
 
+## mesh or planar
+- [Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](https://arxiv.org/abs/1903.01067) **[code](https://github.com/MIT-SPARK/Kimera-VIO)**
+- [PlanarSLAM](https://github.com/yanyan-li/PlanarSLAM)
+- [Efficient_Surface_Detection](https://github.com/AngusKung/Efficient_Surface_Detection)
+
+------------------------------------
+
+
 ## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
 - [DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization](https://arxiv.org/pdf/2202.11431.pdf)
