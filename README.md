@@ -52,6 +52,7 @@
 - [Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](https://arxiv.org/abs/1903.01067) **[code](https://github.com/MIT-SPARK/Kimera-VIO)**
 - [PlanarSLAM](https://github.com/yanyan-li/PlanarSLAM)
 - [Efficient_Surface_Detection](https://github.com/AngusKung/Efficient_Surface_Detection)
+- [Metric Monocular Localization Using Signed Distance Fields](https://arxiv.org/pdf/2003.14157.pdf)
 
 ------------------------------------
 
