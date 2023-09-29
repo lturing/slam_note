@@ -56,6 +56,11 @@
 
 ------------------------------------
 
+## improved orb
+- [A Robust RGB-D SLAM System With Points and Lines for Low Texture Indoor Environments](https://ieeexplore.ieee.org/document/8756267)
+> To ensure a homogeneous distribution, we divide each scale level into a grid, and attempt to extract at least five corners per cell. Then, we detect corners in each cell. Note that our system adopts the Adaptive Threshold FAST (AT-FAST) method to extract corners in challenging scenes (e.g., low or high texture) efficiently. AT-FAST is an improved FAST method.
+
+------------------------------------
 
 ## slam
 - [Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2](https://arxiv.org/pdf/2210.00278.pdf)
